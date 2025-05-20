@@ -1,0 +1,19 @@
+# Archivos generados por el build system
+**/target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Archivos de IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Configuraciones específicas del plugin
+/config.yml
