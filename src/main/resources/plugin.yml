@@ -1,12 +1,11 @@
 name: TikTokLivePlugin
-version: 1.0-SNAPSHOT
+version: 1.0.1 # O tu versión actual
 main: com.example.tiktokliveplugin.TikTokLivePlugin
-api-version: 1.16
-author: TraeAI
-description: Un plugin para mostrar los comentarios de TikTok Live en la consola de Minecraft.
+api-version: 1.16 # O la versión de Spigot/Paper que uses
+author: TuNombre
+description: Integra TikTok Live chat con Minecraft.
 commands:
   tiktok:
-    description: Comando principal para interactuar con TikTok Live.
-    usage: /<command> <connect|disconnect> [uniqueId]
-    
+    description: Maneja la conexión con TikTok Live.
+    usage: /tiktok <connect|disconnect|status> [usuario]
     aliases: [tt, tiktoklive]

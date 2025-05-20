@@ -1,2 +1,3 @@
-com\example\tiktokliveplugin\service\TikTokService.class
+com\example\tiktokliveplugin\commands\TikTokCommandExecutor.class
 com\example\tiktokliveplugin\TikTokLivePlugin.class
+com\example\tiktokliveplugin\service\TikTokService.class
