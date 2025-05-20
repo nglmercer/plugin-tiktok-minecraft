@@ -9,4 +9,4 @@ commands:
     description: Comando principal para interactuar con TikTok Live.
     usage: /<command> <connect|disconnect> [uniqueId]
     
-    aliases: [tt, tikto
+    aliases: [tt, tiktoklive]
